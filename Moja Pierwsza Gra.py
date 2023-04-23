@@ -1,18 +1,5 @@
 import random #Napisz swoją pierwszą gre. 
 
-def zapisz_wynik(imie, wynik):  #pozwoliłem sobie dodać funckje która tworzy i zapisuje w pliku wyniki poszczególnych użytkowników
-    with open("wyniki.txt", "a") as plik:
-        plik.write(f"{imie}: {wynik}\n")
-
-    with open("wyniki.txt", "r") as plik:
-        wyniki = [x.strip().split(": ") for x in plik.readlines()]
-
-    wyniki.sort(key=lambda x: int(x[1]), reverse=True)
-
-    with open("wyniki.txt", "w") as plik:
-        for w in wyniki:
-            plik.write(f"{w[0]}: {w[1]}\n")
-
 imie = input("Podaj imie: ")    #1 Użytkownik podaje imię
 
 dolna_granica = int(input(str(imie) + "! Podaj dolny zakres liczb z których chcesz losować "))  #2 Program prosi użytkownika o podanie zakresu liczb w jakim chce grać, zwracając się do niego po imieniu
