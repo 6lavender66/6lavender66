@@ -1,16 +1,43 @@
-### Hi there 👋
 
-<!--
-**6lavender66/6lavender66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, that's how I define [myself](https://github.com/6lavender66), literally
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    class 6lavender66():
+
+        def __init__(self):
+            self.alias = ' 6lavender66 '
+            self.age = 20
+            self.height = 182 
+            self.work = [' idle ']
+            self.education = [' Katowice Business University ']
+            self.hobbies = [ ' gym ', ' insomnia ', ' gamedev ']
+
+        def current_location(self):
+            return [' Katowice ' , ' Silesia ', ' Poland ']
+
+        def next_locations(self):
+            return [' Düsseldorf, NRW ', ' Tokyo, JPN ']
+            # I hope so 
+
+        def currently(self):
+            return {
+                'studying': [' Comptuer Science '],
+                'reading': [' Game of Thrones '],
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+# vibing
+
+![Logo](https://tenor.com/pl/view/ui-shigure-ui-chan-shigure-ui-%E3%81%97%E3%81%90%E3%82%8C%E3%81%86%E3%81%84-virtual-youtuber-gif-6376915782422040618.gif)
+
+gang shit 
