@@ -36,14 +36,14 @@
 
 <br>
 <br>
-<br>
+
 
     
 <img align="left" width="200" src="https://tenor.com/pl/view/ui-shigure-ui-chan-shigure-ui-%E3%81%97%E3%81%90%E3%82%8C%E3%81%86%E3%81%84-virtual-youtuber-gif-6376915782422040618.gif" />
 
 # Vibing
 
-[[ 🗣 WADADADANG ]](https://www.youtube.com/watch?v=XuhBCX9oS3A)[[ 🗣 WADADADANG ]](https://www.youtube.com/watch?v=XuhBCX9oS3A)[[ 🗣 WADADADANG ]](https://www.youtube.com/watch?v=XuhBCX9oS3A)[[ 🗣 WADADADANG ]](https://www.youtube.com/watch?v=XuhBCX9oS3A)
+[[ 🗣 WADADADANG ]](https://www.youtube.com/watch?v=XuhBCX9oS3A){:target="_blank"}[[ 🗣 WADADADANG ]](https://www.youtube.com/watch?v=XuhBCX9oS3A){:target="_blank"}[[ 🗣 WADADADANG ]](https://www.youtube.com/watch?v=XuhBCX9oS3A){:target="_blank"}[[ 🗣 WADADADANG ]](https://www.youtube.com/watch?v=XuhBCX9oS3A){:target="_blank"}
 
 
 
