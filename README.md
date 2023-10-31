@@ -8,6 +8,7 @@
             self.alias = ' 6lavender66 '
             self.age = 20
             self.height = 182 
+            self.color = #694F96
             self.work = [' idle ']
             self.education = [' Katowice Business University ']
             self.hobbies = [ ' gym ', ' insomnia ', ' gamedev ']
