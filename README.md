@@ -5,7 +5,7 @@
     class 6lavender66():
 
         def initialization(self):
-            self.alias = ' 6lavender66 '
+            self.alias = ' Wayne '
             self.age = 20
             self.height = 182 
             self.color = #694F96
